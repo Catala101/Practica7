@@ -12,6 +12,7 @@ public class Main {
 		BDController controladorBD = new BDController();
 		ArrayList <Jugador> jugadores = new ArrayList<Jugador>();
 		ArrayList <Equipo> equipos = new ArrayList<Equipo>();
+		System.out.println("^-^HOOOOOOOOOOOOOOOOOOOOOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAA^-^")
 		do {
 		Main.mostrarMenu();
 		opc=sn.nextInt();
